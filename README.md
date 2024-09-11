@@ -4,3 +4,4 @@ A simple virus made in python.the virus is not harmful as it just shows pictures
 
 
 
+![Uploading bsod6.png…]()
